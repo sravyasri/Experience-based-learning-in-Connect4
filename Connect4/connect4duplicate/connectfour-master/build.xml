@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="connectfour" default="build">
+
+ <target name="build" depends="prepare,lint,test"/>
+
+ <target name="build-parallel" depends="prepare,lint,test"/>
+
+ <target name="clean" description="Cleanup build artifacts">
+  <delete dir="${basedir}/build/logs"/>
+ </target>
+
+ <target name="prepare" depends="clean" description="Prepare for build">
+  <mkdir dir="${basedir}/build/logs"/>
+ </target>
+
+ <target name="lint" description="Perform syntax check of sourcecode files">
+   <exec executable="build/pylint.sh"></exec>
+ </target>
+
+ <target name="test" description="Run unit tests">
+   <exec executable="nosetests">
+     <arg value="--with-xunit" />
+     <arg value="--xunit-file=${basedir}/build/logs/nosetests.xml" />
+     <arg value="--with-coverage" />
+     <arg value="--cover-xml" />
+     <arg value="--cover-xml-file=${basedir}/build/logs/coverage.xml" />
+     <arg value="--cover-html" />
+     <arg value="--cover-html-dir=${basedir}/build/coverage" />
+   </exec>
+ </target>
+
+</project>

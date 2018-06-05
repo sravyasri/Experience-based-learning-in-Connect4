@@ -1,0 +1,1003 @@
+2 random
+NEXT SET
+Player1Wins=11
+Player2Wins=15
+Contemplation Usage=0.0
+Number of nodes in Contemplation DB=0
+NEXT SET
+Player1Wins=15
+Player2Wins=10
+Contemplation Usage=0.890410958904
+Number of nodes in Contemplation DB=455
+NEXT SET
+Player1Wins=12
+Player2Wins=15
+Contemplation Usage=0.851752021563
+Number of nodes in Contemplation DB=504
+NEXT SET
+Player1Wins=8
+Player2Wins=15
+Contemplation Usage=0.892753623188
+Number of nodes in Contemplation DB=576
+NEXT SET
+Player1Wins=11
+Player2Wins=14
+Contemplation Usage=0.852054794521
+Number of nodes in Contemplation DB=616
+NEXT SET
+Player1Wins=8
+Player2Wins=20
+Contemplation Usage=0.944903581267
+Number of nodes in Contemplation DB=670
+NEXT SET
+Player1Wins=13
+Player2Wins=14
+Contemplation Usage=0.960339943343
+Number of nodes in Contemplation DB=670
+NEXT SET
+Player1Wins=14
+Player2Wins=12
+Contemplation Usage=0.964912280702
+Number of nodes in Contemplation DB=670
+NEXT SET
+Player1Wins=13
+Player2Wins=15
+Contemplation Usage=0.962406015038
+Number of nodes in Contemplation DB=670
+NEXT SET
+Player1Wins=11
+Player2Wins=17
+Contemplation Usage=0.954787234043
+Number of nodes in Contemplation DB=670
+NEXT SET
+Player1Wins=1
+Player2Wins=5
+Contemplation Usage=0.940476190476
+Number of nodes in Contemplation DB=670
+
+3 random NEXT SET
+Player1Wins=12
+Player2Wins=43
+Contemplation Usage=0.0
+Number of nodes in Contemplation DB=0
+NEXT SET
+Player1Wins=14
+Player2Wins=37
+Contemplation Usage=0.34406779661
+Number of nodes in Contemplation DB=858
+NEXT SET
+Player1Wins=16
+Player2Wins=36
+Contemplation Usage=0.53003003003
+Number of nodes in Contemplation DB=1400
+NEXT SET
+Player1Wins=8
+Player2Wins=38
+Contemplation Usage=0.59219858156
+Number of nodes in Contemplation DB=1820
+NEXT SET
+Player1Wins=13
+Player2Wins=37
+Contemplation Usage=0.748502994012
+Number of nodes in Contemplation DB=2103
+NEXT SET
+Player1Wins=14
+Player2Wins=42
+Contemplation Usage=0.715297450425
+Number of nodes in Contemplation DB=2247
+NEXT SET
+Player1Wins=16
+Player2Wins=36
+Contemplation Usage=0.752279635258
+Number of nodes in Contemplation DB=2461
+NEXT SET
+Player1Wins=17
+Player2Wins=39
+Contemplation Usage=0.811487481591
+Number of nodes in Contemplation DB=2627
+NEXT SET
+Player1Wins=15
+Player2Wins=39
+Contemplation Usage=0.803138373752
+Number of nodes in Contemplation DB=2688
+NEXT SET
+Player1Wins=10
+Player2Wins=43
+Contemplation Usage=0.805255023184
+Number of nodes in Contemplation DB=2785
+
+Same Opponent - 2 random - 300 games each
+
+NEXT SET
+Player1Wins=108
+Player2Wins=148
+Percentage of Contemplation Usage=0.0
+Number of times Experience Base Usage=0.0
+Number of nodes in Contemplation DB=0
+Points Advantage=-3496
+Points Advantage per Game=-11.6533333333
+NEXT SET
+Player1Wins=118
+Player2Wins=148
+Percentage of Contemplation Usage=0.957846767303
+Number of times Experience Base Usage=11.21
+Number of nodes in Contemplation DB=670
+Points Advantage=-3452
+Points Advantage per Game=-11.5066666667
+NEXT SET
+Player1Wins=120
+Player2Wins=135
+Percentage of Contemplation Usage=0.960698689956
+Number of times Experience Base Usage=11.0
+Number of nodes in Contemplation DB=670
+Points Advantage=-3115
+Points Advantage per Game=-10.3833333333
+NEXT SET
+Player1Wins=133
+Player2Wins=131
+Percentage of Contemplation Usage=0.962962962963
+Number of times Experience Base Usage=11.3533333333
+Number of nodes in Contemplation DB=670
+Points Advantage=-1991
+Points Advantage per Game=-6.63666666667
+NEXT SET
+Player1Wins=109
+Player2Wins=156
+Percentage of Contemplation Usage=0.954292411368
+Number of times Experience Base Usage=10.8566666667
+Number of nodes in Contemplation DB=670
+Points Advantage=-4779
+Points Advantage per Game=-15.93
+
+Same Opponent 2 random moves 100 games each
+
+NEXT SET
+Player1Wins=55
+Player2Wins=34
+Percentage of Contemplation Usage=0.0
+Number of times Experience Base Usage=0.0
+Number of nodes in Contemplation DB=0
+Points Advantage=492
+Points Advantage per Game=4.92
+NEXT SET
+Player1Wins=47
+Player2Wins=45
+Exceptions=8
+Percentage of Contemplation Usage=0.858536585366
+Number of times Experience Base Usage=10.56
+Number of nodes in Contemplation DB=578
+Points Advantage=-486
+Points Advantage per Game=-4.86
+NEXT SET
+Player1Wins=38
+Player2Wins=44
+Exceptions=18
+Percentage of Contemplation Usage=0.956692913386
+Number of times Experience Base Usage=9.72
+Number of nodes in Contemplation DB=670
+Points Advantage=-412
+Points Advantage per Game=-4.12
+NEXT SET
+Player1Wins=37
+Player2Wins=45
+Exceptions=18
+Percentage of Contemplation Usage=0.959128065395
+Number of times Experience Base Usage=10.56
+Number of nodes in Contemplation DB=670
+Points Advantage=-1085
+Points Advantage per Game=-10.85
+NEXT SET
+Player1Wins=46
+Player2Wins=42
+Exceptions=12
+Percentage of Contemplation Usage=0.963855421687
+Number of times Experience Base Usage=11.2
+Number of nodes in Contemplation DB=670
+Points Advantage=129
+Points Advantage per Game=1.29
+
+Same Opponent 4 random moves 100 games each
+
+
+NEXT SET
+Player1Wins=32
+Player2Wins=56
+Exceptions=12
+Percentage of Contemplation Usage=0.0
+Number of times Experience Base Usage=0.0
+Number of nodes in Contemplation DB=0
+Points Advantage=-1212
+Points Advantage per Game=-12.12
+NEXT SET
+Player1Wins=37
+Player2Wins=58
+Exceptions=5
+Percentage of Contemplation Usage=0.246226415094
+Number of times Experience Base Usage=2.61
+Number of nodes in Contemplation DB=1604
+Points Advantage=-1282
+Points Advantage per Game=-12.82
+NEXT SET
+Player1Wins=36
+Player2Wins=60
+Exceptions=4
+Percentage of Contemplation Usage=0.412563667233
+Number of times Experience Base Usage=4.86
+Number of nodes in Contemplation DB=2824
+Points Advantage=-1399
+Points Advantage per Game=-13.99
+NEXT SET
+Player1Wins=28
+Player2Wins=61
+Exceptions=11
+Percentage of Contemplation Usage=0.499068901304
+Number of times Experience Base Usage=5.36
+Number of nodes in Contemplation DB=3935
+Points Advantage=-1816
+Points Advantage per Game=-18.16
+NEXT SET
+Player1Wins=30
+Player2Wins=57
+Exceptions=13
+Percentage of Contemplation Usage=0.566666666667
+Number of times Experience Base Usage=5.78
+Number of nodes in Contemplation DB=4722
+Points Advantage=-1189
+Points Advantage per Game=-11.89
+NEXT SET
+Player1Wins=25
+Player2Wins=66
+Exceptions=9
+Percentage of Contemplation Usage=0.58592321755
+Number of times Experience Base Usage=6.41
+Number of nodes in Contemplation DB=5308
+Points Advantage=-2606
+Points Advantage per Game=-26.06
+NEXT SET
+Player1Wins=31
+Player2Wins=56
+Exceptions=13
+Percentage of Contemplation Usage=0.556304138595
+Number of times Experience Base Usage=5.78
+Number of nodes in Contemplation DB=5893
+Points Advantage=-1401
+Points Advantage per Game=-14.01
+NEXT SET
+Player1Wins=27
+Player2Wins=59
+Exceptions=14
+Percentage of Contemplation Usage=0.584761904762
+Number of times Experience Base Usage=6.14
+Number of nodes in Contemplation DB=6532
+Points Advantage=-1585
+Points Advantage per Game=-15.85
+NEXT SET
+Player1Wins=35
+Player2Wins=57
+Exceptions=8
+Percentage of Contemplation Usage=0.706581352834
+Number of times Experience Base Usage=7.73
+Number of nodes in Contemplation DB=7123
+Points Advantage=-1213
+Points Advantage per Game=-12.13
+NEXT SET
+Player1Wins=26
+Player2Wins=59
+Exceptions=15
+Percentage of Contemplation Usage=0.669379450661
+Number of times Experience Base Usage=6.58
+Number of nodes in Contemplation DB=7462
+Points Advantage=-1827
+Points Advantage per Game=-18.27
+
+Same Opponent 4 random moves 500 games each
+
+NEXT SET
+Player1Wins=139
+Player2Wins=302
+Exceptions=59
+Percentage of Contemplation Usage=0.0
+Number of times Experience Base Usage=0.0
+Number of nodes in Contemplation DB=0
+Points Advantage=-8964
+Points Advantage per Game=-20.3265306122
+WinPercentage=0.315192743764
+LoosePercentage=0.684807256236
+Win/loss= 0.46
+NEXT SET
+Player1Wins=133
+Player2Wins=303
+Exceptions=64
+Percentage of Contemplation Usage=0.517234587355
+Number of times Experience Base Usage=5.252
+Number of nodes in Contemplation DB=5145
+Points Advantage=-8300
+Points Advantage per Game=-19.0366972477
+WinPercentage=0.30504587156
+LoosePercentage=0.69495412844
+NEXT SET
+Player1Wins=156
+Player2Wins=290
+Exceptions=54
+Percentage of Contemplation Usage=0.71143237588
+Number of times Experience Base Usage=7.48
+Number of nodes in Contemplation DB=7670
+Points Advantage=-7130
+Points Advantage per Game=-15.9865470852
+WinPercentage=0.349775784753
+LoosePercentage=0.650224215247
+NEXT SET
+Player1Wins=140
+Player2Wins=290
+Exceptions=70
+Percentage of Contemplation Usage=0.722752585521
+Number of times Experience Base Usage=7.268
+Number of nodes in Contemplation DB=8969
+Points Advantage=-7485
+Points Advantage per Game=-17.4069767442
+WinPercentage=0.325581395349
+LoosePercentage=0.674418604651
+NEXT SET
+Player1Wins=143
+Player2Wins=291
+Exceptions=66
+Percentage of Contemplation Usage=0.780628979356
+Number of times Experience Base Usage=8.092
+Number of nodes in Contemplation DB=9987
+Points Advantage=-8473
+Points Advantage per Game=-19.5230414747
+WinPercentage=0.329493087558
+LoosePercentage=0.670506912442
+NEXT SET
+Player1Wins=163
+Player2Wins=268
+Exceptions=69
+Percentage of Contemplation Usage=0.806550665302
+Number of times Experience Base Usage=7.88
+Number of nodes in Contemplation DB=10786
+Points Advantage=-5678
+Points Advantage per Game=-13.1740139211
+WinPercentage=0.37819025522
+LoosePercentage=0.62180974478
+NEXT SET
+Player1Wins=149
+Player2Wins=292
+Exceptions=59
+Percentage of Contemplation Usage=0.812536499903
+Number of times Experience Base Usage=8.348
+Number of nodes in Contemplation DB=11226
+Points Advantage=-7413
+Points Advantage per Game=-16.8095238095
+WinPercentage=0.337868480726
+LoosePercentage=0.662131519274
+NEXT SET
+Player1Wins=152
+Player2Wins=284
+Exceptions=64
+Percentage of Contemplation Usage=0.829534752307
+Number of times Experience Base Usage=8.808
+Number of nodes in Contemplation DB=11648
+Points Advantage=-6855
+Points Advantage per Game=-15.7224770642
+WinPercentage=0.348623853211
+LoosePercentage=0.651376146789
+NEXT SET
+Player1Wins=132
+Player2Wins=299
+Exceptions=69
+Percentage of Contemplation Usage=0.848467209934
+Number of times Experience Base Usage=8.746
+Number of nodes in Contemplation DB=11985
+Points Advantage=-8254
+Points Advantage per Game=-19.150812065
+WinPercentage=0.30626450116
+LoosePercentage=0.69373549884
+NEXT SET
+Player1Wins=158
+Player2Wins=277
+Exceptions=65
+Percentage of Contemplation Usage=0.842975206612
+Number of times Experience Base Usage=8.772
+Number of nodes in Contemplation DB=12087
+Points Advantage=-6118
+Points Advantage per Game=-14.0643678161
+WinPercentage=0.363218390805
+LoosePercentage=0.636781609195
+NEXT SET
+Player1Wins=160
+Player2Wins=290
+Exceptions=50
+Percentage of Contemplation Usage=0.840212040894
+Number of times Experience Base Usage=8.876
+Number of nodes in Contemplation DB=12296
+Points Advantage=-6665
+Points Advantage per Game=-14.8111111111
+WinPercentage=0.355555555556
+LoosePercentage=0.644444444444
+WIN TO LOSS RatioNEXT SET
+Player1Wins=167
+Player2Wins=278
+Exceptions=55
+Percentage of Contemplation Usage=0.855139289145
+Number of times Experience Base Usage=8.902
+Number of nodes in Contemplation DB=12508
+Points Advantage=-5932
+Points Advantage per Game=-13.3303370787
+WinPercentage=0.375280898876
+LoosePercentage=0.624719101124
+WIN TO LOSS Ratio
+NEXT SET
+Player1Wins=138
+Player2Wins=302
+Exceptions=60
+Percentage of Contemplation Usage=0.850539291217
+Number of times Experience Base Usage=8.832
+Number of nodes in Contemplation DB=12571
+Points Advantage=-8491
+Points Advantage per Game=-19.2977272727
+WinPercentage=0.313636363636
+LoosePercentage=0.686363636364
+WIN TO LOSS RatioNEXT SET
+Player1Wins=158
+Player2Wins=278
+Exceptions=64
+Percentage of Contemplation Usage=0.844699922058
+Number of times Experience Base Usage=8.67
+Number of nodes in Contemplation DB=12642
+Points Advantage=-7218
+Points Advantage per Game=-16.5550458716
+WinPercentage=0.362385321101
+LoosePercentage=0.637614678899
+WIN TO LOSS Ratio
+NEXT SET
+Player1Wins=138
+Player2Wins=289
+Exceptions=73
+Percentage of Contemplation Usage=0.84731610338
+Number of times Experience Base Usage=8.524
+Number of nodes in Contemplation DB=12727
+Points Advantage=-8347
+Points Advantage per Game=-19.5480093677
+WinPercentage=0.32318501171
+LoosePercentage=0.67681498829
+WIN TO LOSS RatioNEXT SET
+Player1Wins=135
+Player2Wins=296
+Exceptions=69
+Percentage of Contemplation Usage=0.846032372681
+Number of times Experience Base Usage=8.572
+Number of nodes in Contemplation DB=12833
+Points Advantage=-8572
+Points Advantage per Game=-19.8886310905
+WinPercentage=0.313225058005
+LoosePercentage=0.686774941995
+WIN TO LOSS Ratio = 0.45
+NEXT SET
+Player1Wins=122
+Player2Wins=309
+Exceptions=69
+Percentage of Contemplation Usage=0.848219497957
+Number of times Experience Base Usage=8.718
+Number of nodes in Contemplation DB=12941
+Points Advantage=-10241
+Points Advantage per Game=-23.7610208817
+WinPercentage=0.283062645012
+LoosePercentage=0.716937354988
+WIN TO LOSS Ratio=0.39
+NEXT SET
+Player1Wins=149
+Player2Wins=280
+Exceptions=71
+Percentage of Contemplation Usage=0.86017699115
+Number of times Experience Base Usage=8.748
+Number of nodes in Contemplation DB=12999
+Points Advantage=-6669
+Points Advantage per Game=-15.5454545455
+WinPercentage=0.347319347319
+LoosePercentage=0.652680652681
+WIN TO LOSS Ratio=0.532142857143
+NEXT SET
+Player1Wins=151
+Player2Wins=287
+Exceptions=62
+Percentage of Contemplation Usage=0.857227254825
+Number of times Experience Base Usage=8.706
+Number of nodes in Contemplation DB=13002
+Points Advantage=-7279
+Points Advantage per Game=-16.6187214612
+WinPercentage=0.344748858447
+LoosePercentage=0.655251141553
+WIN TO LOSS Ratio=0.526132404181
+NEXT SET
+Player1Wins=152
+Player2Wins=277
+Exceptions=71
+Percentage of Contemplation Usage=0.858045409674
+Number of times Experience Base Usage=8.692
+Number of nodes in Contemplation DB=13002
+Points Advantage=-6243
+Points Advantage per Game=-14.5524475524
+WinPercentage=0.354312354312
+LoosePercentage=0.645687645688
+WIN TO LOSS Ratio=0.548736462094
+NEXT SET
+Player1Wins=135
+Player2Wins=306
+Exceptions=59
+Percentage of Contemplation Usage=0.856124807396
+Number of times Experience Base Usage=8.89
+Number of nodes in Contemplation DB=13028
+Points Advantage=-9179
+Points Advantage per Game=-20.8140589569
+WinPercentage=0.30612244898
+LoosePercentage=0.69387755102
+WIN TO LOSS Ratio=0.441176470588
+NEXT SET
+Player1Wins=151
+Player2Wins=282
+Exceptions=67
+Percentage of Contemplation Usage=0.861969111969
+Number of times Experience Base Usage=8.93
+Number of nodes in Contemplation DB=13028
+Points Advantage=-7183
+Points Advantage per Game=-16.5889145497
+WinPercentage=0.348729792148
+LoosePercentage=0.651270207852
+WIN TO LOSS Ratio=0.535460992908
+NEXT SET
+Player1Wins=141
+Player2Wins=297
+Exceptions=62
+Percentage of Contemplation Usage=0.861738148984
+Number of times Experience Base Usage=9.162
+Number of nodes in Contemplation DB=13028
+Points Advantage=-8275
+Points Advantage per Game=-18.8926940639
+WinPercentage=0.321917808219
+LoosePercentage=0.678082191781
+WIN TO LOSS Ratio=0.474747474747
+NEXT SET
+Player1Wins=128
+Player2Wins=301
+Exceptions=71
+Percentage of Contemplation Usage=0.85387948011
+Number of times Experience Base Usage=8.672
+Number of nodes in Contemplation DB=13028
+Points Advantage=-9979
+Points Advantage per Game=-23.2610722611
+WinPercentage=0.298368298368
+LoosePercentage=0.701631701632
+WIN TO LOSS Ratio=0.425249169435
+
+Same Opponent 2 random moves 100 games each
+
+
+
+
+
+NEXT SET
+Player1Wins=32
+Player2Wins=50
+Exceptions=18
+Percentage of Contemplation Usage=0.0
+Number of times Experience Base Usage=0.0
+Number of nodes in Contemplation DB=0
+Points Advantage=-1762
+Points Advantage per Game=-21.487804878
+WinPercentage=0.390243902439
+LoosePercentage=0.609756097561
+WIN TO LOSS Ratio=0.64
+NEXT SET
+Player1Wins=99
+Player2Wins=195
+Exceptions=206
+Percentage of Contemplation Usage=0.855794750811
+Number of times Experience Base Usage=5.804
+NEXT SET
+Player1Wins=37
+Player2Wins=53
+Exceptions=10
+Percentage of Contemplation Usage=0.471122112211
+Number of times Experience Base Usage=5.71
+Number of nodes in Contemplation DB=528
+Points Advantage=-777
+Points Advantage per Game=-8.63333333333
+WinPercentage=0.411111111111
+LoosePercentage=0.588888888889
+WIN TO LOSS Ratio=0.698113207547
+NEXT SET
+Player1Wins=36
+Player2Wins=50
+Exceptions=14
+Percentage of Contemplation Usage=0.487242798354
+Number of times Experience Base Usage=5.92
+Number of nodes in Contemplation DB=909
+Points Advantage=-994
+Points Advantage per Game=-11.5581395349
+WinPercentage=0.418604651163
+LoosePercentage=0.581395348837
+WIN TO LOSS Ratio=0.72
+NEXT SET
+Player1Wins=47
+Player2Wins=41
+Exceptions=12
+Percentage of Contemplation Usage=0.966199505359
+Number of times Experience Base Usage=11.72
+Number of nodes in Contemplation DB=943
+Points Advantage=195
+Points Advantage per Game=2.21590909091
+WinPercentage=0.534090909091
+LoosePercentage=0.465909090909
+WIN TO LOSS Ratio=1.14634146341
+NEXT SET
+Player1Wins=44
+Player2Wins=41
+Exceptions=15
+Percentage of Contemplation Usage=0.943037974684
+Number of times Experience Base Usage=10.43
+Number of nodes in Contemplation DB=943
+Points Advantage=-202
+Points Advantage per Game=-2.37647058824
+WinPercentage=0.517647058824
+LoosePercentage=0.482352941176
+WIN TO LOSS Ratio=1.07317073171
+NEXT SET
+Player1Wins=51
+Player2Wins=35
+Exceptions=14
+Percentage of Contemplation Usage=0.970612930311
+Number of times Experience Base Usage=11.56
+Number of nodes in Contemplation DB=966
+Points Advantage=667
+Points Advantage per Game=7.75581395349
+WinPercentage=0.593023255814
+LoosePercentage=0.406976744186
+WIN TO LOSS Ratio=1.45714285714
+NEXT SET
+Player1Wins=45
+Player2Wins=38
+Exceptions=17
+Percentage of Contemplation Usage=0.967156439067
+Number of times Experience Base Usage=11.19
+Number of nodes in Contemplation DB=966
+Points Advantage=-44
+Points Advantage per Game=-0.530120481928
+WinPercentage=0.542168674699
+LoosePercentage=0.457831325301
+WIN TO LOSS Ratio=1.18421052632
+NEXT SET
+Player1Wins=51
+Player2Wins=33
+Exceptions=16
+Percentage of Contemplation Usage=0.969807868253
+Number of times Experience Base Usage=10.6
+Number of nodes in Contemplation DB=966
+Points Advantage=915
+Points Advantage per Game=10.8928571429
+WinPercentage=0.607142857143
+LoosePercentage=0.392857142857
+WIN TO LOSS Ratio=1.54545454545
+NEXT SET
+Player1Wins=39
+Player2Wins=48
+Exceptions=13
+Percentage of Contemplation Usage=0.96049382716
+Number of times Experience Base Usage=11.67
+Number of nodes in Contemplation DB=966
+Points Advantage=-770
+Points Advantage per Game=-8.85057471264
+WinPercentage=0.448275862069
+LoosePercentage=0.551724137931
+WIN TO LOSS Ratio=0.8125
+NEXT SET
+Player1Wins=41
+Player2Wins=47
+Exceptions=12
+Percentage of Contemplation Usage=0.96227929374
+Number of times Experience Base Usage=11.99
+Number of nodes in Contemplation DB=966
+Points Advantage=-679
+Points Advantage per Game=-7.71590909091
+WinPercentage=0.465909090909
+LoosePercentage=0.534090909091
+WIN TO LOSS Ratio=0.872340425532
+NEXT SET
+Player1Wins=47
+Player2Wins=37
+Exceptions=16
+Percentage of Contemplation Usage=0.969572368421
+Number of times Experience Base Usage=11.79
+Number of nodes in Contemplation DB=966
+Points Advantage=-199
+Points Advantage per Game=-2.36904761905
+WinPercentage=0.559523809524
+LoosePercentage=0.440476190476
+WIN TO LOSS Ratio=1.27027027027
+NEXT SET
+Player1Wins=43
+Player2Wins=45
+Exceptions=12
+Percentage of Contemplation Usage=0.0
+Number of times Experience Base Usage=0.0
+Number of nodes in Contemplation DB=0
+Points Advantage=-851
+Points Advantage per Game=-9.67045454545
+WinPercentage=0.488636363636
+LoosePercentage=0.511363636364
+WIN TO LOSS Ratio=0.955555555556
+NEXT SET
+Player1Wins=39
+Player2Wins=47
+Exceptions=14
+Percentage of Contemplation Usage=0.894392523364
+Number of times Experience Base Usage=9.57
+Number of nodes in Contemplation DB=625
+Points Advantage=-1033
+Points Advantage per Game=-12.011627907
+WinPercentage=0.453488372093
+LoosePercentage=0.546511627907
+WIN TO LOSS Ratio=0.829787234043
+NEXT SET
+Player1Wins=38
+Player2Wins=47
+Exceptions=15
+Percentage of Contemplation Usage=0.959829059829
+Number of times Experience Base Usage=11.23
+Number of nodes in Contemplation DB=670
+Points Advantage=-679
+Points Advantage per Game=-7.98823529412
+WinPercentage=0.447058823529
+LoosePercentage=0.552941176471
+WIN TO LOSS Ratio=0.808510638298
+NEXT SET
+Player1Wins=39
+Player2Wins=49
+Exceptions=12
+Percentage of Contemplation Usage=0.957205240175
+Number of times Experience Base Usage=10.96
+Number of nodes in Contemplation DB=670
+Points Advantage=-1056
+Points Advantage per Game=-12.0
+WinPercentage=0.443181818182
+LoosePercentage=0.556818181818
+WIN TO LOSS Ratio=0.795918367347
+NEXT SET
+Player1Wins=51
+Player2Wins=34
+Exceptions=15
+Percentage of Contemplation Usage=0.971524288107
+Number of times Experience Base Usage=11.6
+Number of nodes in Contemplation DB=670
+Points Advantage=-110
+Points Advantage per Game=-1.29411764706
+WinPercentage=0.6
+LoosePercentage=0.4
+WIN TO LOSS Ratio=1.5
+NEXT SET
+Player1Wins=39
+Player2Wins=47
+Exceptions=14
+Percentage of Contemplation Usage=0.960636515913
+Number of times Experience Base Usage=11.47
+Number of nodes in Contemplation DB=670
+Points Advantage=-1052
+Points Advantage per Game=-12.2325581395
+WinPercentage=0.453488372093
+LoosePercentage=0.546511627907
+WIN TO LOSS Ratio=0.829787234043
+NEXT SET
+Player1Wins=42
+Player2Wins=41
+Exceptions=17
+Percentage of Contemplation Usage=0.964685615848
+Number of times Experience Base Usage=11.2
+Number of nodes in Contemplation DB=670
+Points Advantage=-446
+Points Advantage per Game=-5.3734939759
+WinPercentage=0.506024096386
+LoosePercentage=0.493975903614
+WIN TO LOSS Ratio=1.0243902439
+NEXT SET
+Player1Wins=38
+Player2Wins=47
+Exceptions=15
+Percentage of Contemplation Usage=0.96053736356
+Number of times Experience Base Usage=11.44
+Number of nodes in Contemplation DB=670
+Points Advantage=-1084
+Points Advantage per Game=-12.7529411765
+WinPercentage=0.447058823529
+LoosePercentage=0.552941176471
+WIN TO LOSS Ratio=0.808510638298
+NEXT SET
+Player1Wins=42
+Player2Wins=49
+Exceptions=9
+Percentage of Contemplation Usage=0.958614864865
+Number of times Experience Base Usage=11.35
+Number of nodes in Contemplation DB=670
+Points Advantage=-1455
+Points Advantage per Game=-15.989010989
+WinPercentage=0.461538461538
+LoosePercentage=0.538461538462
+WIN TO LOSS Ratio=0.857142857143
+NEXT SET
+Player1Wins=34
+Player2Wins=54
+Exceptions=12
+Percentage of Contemplation Usage=0.952380952381
+Number of times Experience Base Usage=10.8
+Number of nodes in Contemplation DB=670
+Points Advantage=-2222
+Points Advantage per Game=-25.25
+WinPercentage=0.386363636364
+LoosePercentage=0.613636363636
+WIN TO LOSS Ratio=0.62962962963
+
+
+3rd Round
+NEXT SET
+Player1Wins=42
+Player2Wins=46
+Exceptions=12
+Percentage of Contemplation Usage=0.0
+Number of times Experience Base Usage=0.0
+Number of nodes in Contemplation DB=0
+Points Advantage=-886
+Points Advantage per Game=-10.0681818182
+WinPercentage=0.477272727273
+LoosePercentage=0.522727272727
+WIN TO LOSS Ratio=0.913043478261
+NEXT SET
+Player1Wins=30
+Player2Wins=59
+Exceptions=11
+Percentage of Contemplation Usage=0.935876623377
+Number of times Experience Base Usage=12.9550561798
+Number of nodes in Contemplation DB=649
+Points Advantage=-2497
+Points Advantage per Game=-28.0561797753
+WinPercentage=0.337078651685
+LoosePercentage=0.662921348315
+WIN TO LOSS Ratio=0.508474576271
+NEXT SET
+Player1Wins=43
+Player2Wins=40
+Exceptions=17
+Percentage of Contemplation Usage=0.964570416298
+Number of times Experience Base Usage=13.1204819277
+Number of nodes in Contemplation DB=670
+Points Advantage=-576
+Points Advantage per Game=-6.93975903614
+WinPercentage=0.518072289157
+LoosePercentage=0.481927710843
+WIN TO LOSS Ratio=1.075
+NEXT SET
+Player1Wins=44
+Player2Wins=39
+Exceptions=17
+Percentage of Contemplation Usage=0.966175195143
+Number of times Experience Base Usage=13.421686747
+Number of nodes in Contemplation DB=670
+Points Advantage=-48
+Points Advantage per Game=-0.578313253012
+WinPercentage=0.530120481928
+LoosePercentage=0.469879518072
+WIN TO LOSS Ratio=1.12820512821
+NEXT SET
+Player1Wins=38
+Player2Wins=52
+Exceptions=10
+Percentage of Contemplation Usage=0.955133735979
+Number of times Experience Base Usage=12.3
+Number of nodes in Contemplation DB=670
+Points Advantage=-1637
+Points Advantage per Game=-18.1888888889
+WinPercentage=0.422222222222
+LoosePercentage=0.577777777778
+WIN TO LOSS Ratio=0.730769230769
+NEXT SET
+Player1Wins=38
+Player2Wins=47
+Exceptions=15
+Percentage of Contemplation Usage=0.961157024793
+Number of times Experience Base Usage=13.6823529412
+Number of nodes in Contemplation DB=670
+Points Advantage=-972
+Points Advantage per Game=-11.4352941176
+WinPercentage=0.447058823529
+LoosePercentage=0.552941176471
+WIN TO LOSS Ratio=0.808510638298
+
+Symmetry
+NEXT SET
+Player1Wins=38
+Player2Wins=51
+Exceptions=11
+Percentage of Contemplation Usage=0.0
+Number of times Experience Base Usage=0.0
+Number of nodes in Contemplation DB=0
+Points Advantage=-1414
+Points Advantage per Game=-15.8876404494
+WinPercentage=0.426966292135
+LoosePercentage=0.573033707865
+WIN TO LOSS Ratio=0.745098039216
+Symmetry Used=0
+NEXT SET
+Player1Wins=40
+Player2Wins=51
+Exceptions=9
+Percentage of Contemplation Usage=0.0
+Number of times Experience Base Usage=0.0
+Number of nodes in Contemplation DB=0
+Points Advantage=-1619
+Points Advantage per Game=-17.7912087912
+WinPercentage=0.43956043956
+LoosePercentage=0.56043956044
+WIN TO LOSS Ratio=0.78431372549
+Symmetry Used=0
+NEXT SET
+Player1Wins=40
+Player2Wins=43
+Exceptions=17
+Percentage of Contemplation Usage=0.958812260536
+Number of times Experience Base Usage=12.0602409639
+Number of nodes in Contemplation DB=1200
+Points Advantage=-455
+Points Advantage per Game=-5.48192771084
+WinPercentage=0.481927710843
+LoosePercentage=0.518072289157
+WIN TO LOSS Ratio=0.93023255814
+Symmetry Used=0
+NEXT SET
+Player1Wins=39
+Player2Wins=50
+Exceptions=11
+Percentage of Contemplation Usage=0.939937597504
+Number of times Experience Base Usage=13.5393258427
+Number of nodes in Contemplation DB=1200
+Points Advantage=-1541
+Points Advantage per Game=-17.3146067416
+WinPercentage=0.438202247191
+LoosePercentage=0.561797752809
+WIN TO LOSS Ratio=0.78
+Symmetry Used=0
+NEXT SET
+Player1Wins=41
+Player2Wins=48
+Exceptions=11
+Percentage of Contemplation Usage=0.960264900662
+Number of times Experience Base Usage=13.0337078652
+Number of nodes in Contemplation DB=1238
+Points Advantage=-1258
+Points Advantage per Game=-14.1348314607
+WinPercentage=0.460674157303
+LoosePercentage=0.539325842697
+WIN TO LOSS Ratio=0.854166666667
+Symmetry Used=0
+NEXT SET
+Player1Wins=48
+Player2Wins=42
+Exceptions=10
+Percentage of Contemplation Usage=0.96682464455
+Number of times Experience Base Usage=13.6
+Number of nodes in Contemplation DB=1238
+Points Advantage=-620
+Points Advantage per Game=-6.88888888889
+WinPercentage=0.533333333333
+LoosePercentage=0.466666666667
+WIN TO LOSS Ratio=1.14285714286
+Symmetry Used=0
+NEXT SET
+Player1Wins=5
+Player2Wins=5
+Exceptions=0
+Percentage of Contemplation Usage=0.962121212121
+Number of times Experience Base Usage=12.7
+Number of nodes in Contemplation DB=1238
+Points Advantage=-97
+Points Advantage per Game=-9.7
+WinPercentage=0.5
+LoosePercentage=0.5
+WIN TO LOSS Ratio=1.0
+Symmetry Used=0
